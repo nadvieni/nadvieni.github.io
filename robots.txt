@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nadvieni.github.io/sitemap.html.gz
+Sitemap: https://nadvieni.github.io/app/sitemap.html.gz
+Sitemap: https://nadvieni.github.io/assets/sitemap.html.gz
+Sitemap: https://nadvieni.github.io/css/sitemap.html.gz
+Sitemap: https://nadvieni.github.io/includes/sitemap.html.gz
+Sitemap: https://nadvieni.github.io/item/sitemap.html.gz
+Sitemap: https://nadvieni.github.io/src/sitemap.html.gz
